@@ -1,11 +1,10 @@
 {
-	"id": "red-panda-formatter",
-	"name": "Red Panda Formatter",
-	"version": "1.0.0",
+	"id": "red-panda-editor",
+	"name": "Red Panda Editor",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Red Panda Formatter - Based on easy-typing",
+	"description": "自動空格、全形符號配對、Markdown 格式化、標點轉換 - 完整的中文編輯體驗",
 	"author": "m6jo",
-	"authorUrl": "",
-	"isDesktopOnly": false,
-	"fundingUrl": ""
+	"authorUrl": "https://github.com/m6jo",
+	"isDesktopOnly": false
 }
